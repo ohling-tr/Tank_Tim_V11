@@ -1,0 +1,37 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "browse": {
+                "path": [
+                    "C:\\Users\\trohl\\Documents\\Arduino\\libraries\\LcdBarGraphX\\src",
+                    "C:\\Users\\trohl\\Documents\\Arduino\\libraries\\MultiLcd\\src",
+                    "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino",
+                    "C:\\Program Files (x86)\\Arduino\\**",
+                    "C:\\Users\\trohl\\Documents\\Arduino\\libraries\\**",
+                    "${workspaceFolder}"
+                ],
+                "limitSymbolsToIncludedHeaders": false
+            },
+            "includePath": [
+                "C:\\Program Files (x86)\\Arduino\\tools\\**",
+                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\**",
+                "C:\\Users\\trohl\\Documents\\Arduino\\libraries\\LcdBarGraphX\\src",
+                "C:\\Users\\trohl\\Documents\\Arduino\\libraries\\MultiLcd\\src",
+                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino",
+                "C:\\Program Files (x86)\\Arduino\\**",
+                "C:\\Users\\trohl\\Documents\\Arduino\\libraries\\**",
+                "${workspaceFolder}"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}

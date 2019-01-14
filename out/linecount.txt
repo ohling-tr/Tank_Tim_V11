@@ -1,0 +1,123 @@
+===============================================================================
+EXTENSION NAME : linecount
+EXTENSION VERSION : 0.1.7
+-------------------------------------------------------------------------------
+count time : 2018-07-23 14:33:10
+count workspace : c:\Users\trohl\Documents\Arduino\Tank_Tim_V1
+total files : 5
+total code lines : 512
+total comment lines : 414
+total blank lines : 112
+
+c:\Users\trohl\Documents\Arduino\RotarySwitchAndPotentiometerTest2\RotarySwitchAndPotentiometerTest2.ino, code is 115, comment is 23, blank is 17.
+c:\Users\trohl\Documents\Arduino\Tank_Tim_V2\Tank_Tim_V2.ino, code is 127, comment is 121, blank is 28.
+c:\Users\trohl\Documents\Arduino\Tank_Tim_V3\Tank_Tim_V3.ino, code is 144, comment is 125, blank is 35.
+c:\Users\trohl\Documents\Arduino\UltrasonicTest\UltrasonicTest.ino, code is 25, comment is 15, blank is 4.
+Tank_Tim_V1.ino, code is 101, comment is 130, blank is 28.
+===============================================================================
+===============================================================================
+EXTENSION NAME : linecount
+EXTENSION VERSION : 0.1.7
+-------------------------------------------------------------------------------
+count time : 2018-07-23 14:36:09
+count workspace : c:\Users\trohl\Documents\Arduino\Tank_Tim_V1
+total files : 94
+total code lines : 2603
+total comment lines : 992
+total blank lines : 689
+
+c:\Users\trohl\Documents\Arduino\RotarySwitchAndPotentiometerTest2\RotarySwitchAndPotentiometerTest2.ino, code is 115, comment is 23, blank is 17.
+c:\Users\trohl\Documents\Arduino\Tank_Tim_V2\Tank_Tim_V2.ino, code is 127, comment is 121, blank is 28.
+c:\Users\trohl\Documents\Arduino\Tank_Tim_V3\Tank_Tim_V3.ino, code is 144, comment is 125, blank is 35.
+c:\Users\trohl\Documents\Arduino\UltrasonicTest\UltrasonicTest.ino, code is 25, comment is 15, blank is 4.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\.classpath, code is 14, comment is 0, blank is 0.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\.gitignore, code is 1, comment is 0, blank is 0.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\.project, code is 18, comment is 0, blank is 0.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\commands\ArcadeDrive.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\commands\Autonomous.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\commands\ClimbUp.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\commands\DriveDistancePID.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\commands\GrabClawOpen.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\commands\GrabClose.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\commands\GrabCloseForce.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\commands\GrabOpenTimed.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\commands\GrabWheelOpen.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\commands\KeepHeadingPID.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\commands\MoveLift.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\commands\MoveLiftDown.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\commands\MoveLiftToTarget.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\commands\MoveLiftUp.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\commands\PutPCubeDown.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\commands\SetGrabSubsystemSafety.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\commands\SetLiftEncoderBottom.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\commands\SetTiltPotVert.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\commands\Tilt.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\commands\TiltDown.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\commands\TiltToBottom.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\commands\TiltToVertical.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\commands\TiltUp.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\commands\TimedLift.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\commands\ToggleDriveCamera.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\commands\TurnAnglePID.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\commands\TurnLeftTimed.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\commands\TurnRightTimed.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\OI.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\Robot.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\RobotMap.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\subsystems\ClimbSubsystem.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\subsystems\DriverCam.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\subsystems\DriverCam1.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\subsystems\DriveSubsystem$getLeftEncoder.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\subsystems\DriveSubsystem$getRightEncoder.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\subsystems\DriveSubsystem$getSourceAngle.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\subsystems\DriveSubsystem$putDriveDistance.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\subsystems\DriveSubsystem$putOutputTurn.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\subsystems\DriveSubsystem$putSteeringHeading.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\subsystems\DriveSubsystem.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\subsystems\GrabClawSubsystem.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\subsystems\GrabWheelSubsystem.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\subsystems\LiftSubsystem$getLiftEncoder.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\subsystems\LiftSubsystem$putLiftSpeed.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\bin\org\usfirst\frc\team4662\robot\subsystems\LiftSubsystem.class, it is a binary file.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\build.properties, code is 4, comment is 0, blank is 0.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\build.xml, code is 7, comment is 14, blank is 9.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\src\org\usfirst\frc\team4662\robot\commands\ArcadeDrive.java, code is 21, comment is 11, blank is 9.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\src\org\usfirst\frc\team4662\robot\commands\Autonomous.java, code is 170, comment is 23, blank is 34.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\src\org\usfirst\frc\team4662\robot\commands\ClimbUp.java, code is 22, comment is 9, blank is 10.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\src\org\usfirst\frc\team4662\robot\commands\DriveDistancePID.java, code is 53, comment is 15, blank is 13.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\src\org\usfirst\frc\team4662\robot\commands\GrabClawOpen.java, code is 23, comment is 11, blank is 10.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\src\org\usfirst\frc\team4662\robot\commands\GrabClose.java, code is 23, comment is 11, blank is 9.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\src\org\usfirst\frc\team4662\robot\commands\GrabCloseForce.java, code is 23, comment is 11, blank is 9.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\src\org\usfirst\frc\team4662\robot\commands\GrabOpenTimed.java, code is 27, comment is 11, blank is 10.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\src\org\usfirst\frc\team4662\robot\commands\GrabWheelOpen.java, code is 41, comment is 11, blank is 10.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\src\org\usfirst\frc\team4662\robot\commands\KeepHeadingPID.java, code is 24, comment is 11, blank is 9.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\src\org\usfirst\frc\team4662\robot\commands\MoveLift.java, code is 21, comment is 10, blank is 10.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\src\org\usfirst\frc\team4662\robot\commands\MoveLiftDown.java, code is 22, comment is 9, blank is 10.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\src\org\usfirst\frc\team4662\robot\commands\MoveLiftToTarget.java, code is 24, comment is 11, blank is 10.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\src\org\usfirst\frc\team4662\robot\commands\MoveLiftUp.java, code is 22, comment is 9, blank is 10.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\src\org\usfirst\frc\team4662\robot\commands\PutPCubeDown.java, code is 10, comment is 3, blank is 4.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\src\org\usfirst\frc\team4662\robot\commands\SetGrabSubsystemSafety.java, code is 26, comment is 11, blank is 11.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\src\org\usfirst\frc\team4662\robot\commands\SetLiftEncoderBottom.java, code is 20, comment is 11, blank is 9.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\src\org\usfirst\frc\team4662\robot\commands\SetTiltPotVert.java, code is 20, comment is 11, blank is 9.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\src\org\usfirst\frc\team4662\robot\commands\Tilt.java, code is 20, comment is 11, blank is 10.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\src\org\usfirst\frc\team4662\robot\commands\TiltDown.java, code is 22, comment is 11, blank is 9.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\src\org\usfirst\frc\team4662\robot\commands\TiltToBottom.java, code is 32, comment is 9, blank is 13.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\src\org\usfirst\frc\team4662\robot\commands\TiltToVertical.java, code is 32, comment is 9, blank is 13.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\src\org\usfirst\frc\team4662\robot\commands\TiltUp.java, code is 22, comment is 11, blank is 9.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\src\org\usfirst\frc\team4662\robot\commands\TimedLift.java, code is 23, comment is 9, blank is 10.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\src\org\usfirst\frc\team4662\robot\commands\ToggleDriveCamera.java, code is 18, comment is 13, blank is 7.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\src\org\usfirst\frc\team4662\robot\commands\TurnAnglePID.java, code is 41, comment is 9, blank is 11.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\src\org\usfirst\frc\team4662\robot\commands\TurnLeftTimed.java, code is 23, comment is 11, blank is 11.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\src\org\usfirst\frc\team4662\robot\commands\TurnRightTimed.java, code is 26, comment is 11, blank is 11.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\src\org\usfirst\frc\team4662\robot\OI.java, code is 62, comment is 12, blank is 13.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\src\org\usfirst\frc\team4662\robot\Robot.java, code is 62, comment is 66, blank is 16.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\src\org\usfirst\frc\team4662\robot\RobotMap.java, code is 138, comment is 14, blank is 33.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\src\org\usfirst\frc\team4662\robot\subsystems\ClimbSubsystem.java, code is 27, comment is 3, blank is 10.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\src\org\usfirst\frc\team4662\robot\subsystems\DriverCam.java, code is 60, comment is 17, blank is 15.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\src\org\usfirst\frc\team4662\robot\subsystems\DriverCam1.java, code is 41, comment is 16, blank is 16.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\src\org\usfirst\frc\team4662\robot\subsystems\DriveSubsystem.java, code is 275, comment is 46, blank is 68.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\src\org\usfirst\frc\team4662\robot\subsystems\GrabClawSubsystem.java, code is 203, comment is 39, blank is 35.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\src\org\usfirst\frc\team4662\robot\subsystems\GrabWheelSubsystem.java, code is 183, comment is 40, blank is 34.
+c:\Users\trohl\git\PowerUp2018\PowerUp2018\src\org\usfirst\frc\team4662\robot\subsystems\LiftSubsystem.java, code is 145, comment is 8, blank is 28.
+Tank_Tim_V1.ino, code is 101, comment is 130, blank is 28.
+===============================================================================
